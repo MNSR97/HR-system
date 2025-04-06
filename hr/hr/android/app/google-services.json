@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445910998164",
+    "project_id": "hradmin-ff6f6",
+    "storage_bucket": "hradmin-ff6f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445910998164:android:a8f55534912ea4e59e2881",
+        "android_client_info": {
+          "package_name": "com.hr.hr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALiIXnAickZ41UEXggAbyLQ55FPkI2XbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
